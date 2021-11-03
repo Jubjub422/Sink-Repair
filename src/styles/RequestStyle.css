@@ -1,0 +1,11 @@
+.field {
+    display: flex;
+    flex-direction: column;
+}
+.label{
+    font-size: medium;
+
+}
+.button{
+    margin: .5rem;
+}

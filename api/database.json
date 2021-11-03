@@ -1,0 +1,36 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maud"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": 1635969680113,
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "description": "Toilet PLEASE",
+      "address": "5555 hoobastank lane",
+      "budget": "9999",
+      "neededBy": "2021-11-13",
+      "id": 1
+    },
+    {
+      "description": "Sink issues",
+      "address": "8675 three OH NINE",
+      "budget": "5555",
+      "neededBy": "2021-11-18",
+      "id": 2
+    }
+  ]
+}
